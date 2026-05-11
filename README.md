@@ -40,22 +40,13 @@ b = intercept
 
 # Demo Graph
 
-## Actual vs Predicted Prices
-
-<p align="center">
-  <img 
-    src="https://miro.medium.com/v2/resize:fit:1400/1*5AQ7JvLw0w0F9N1X5fX1sQ.png" 
-    width="600">
-</p>
-
+![Linear Regression](https://raw.githubusercontent.com/rasbt/python-machine-learning-book-3rd-edition/master/ch10/images/10_01.png)
 ---
 
-# Project Output
+# Linear Regression Graph
 
 <p align="center">
-  <img 
-    src="https://scikit-learn.org/stable/_images/sphx_glr_plot_ols_001.png" 
-    width="600">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Linear_regression.svg" width="500">
 </p>
 
 ---
