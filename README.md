@@ -12,7 +12,7 @@ Machine Learning project using Linear Regression.
 - Data visualization
 - Regression model
 
-- Dataset
+Dataset
    ↓
 Data Cleaning
    ↓
